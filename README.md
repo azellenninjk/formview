@@ -126,3 +126,5 @@ some commands require accessibility permissions in system preferences
 - **keyboard maestro** (not programmatic)
 
 MIT • not affiliated with prtbuff
+
+# PR Update: 2025-11-22 18:33:02
